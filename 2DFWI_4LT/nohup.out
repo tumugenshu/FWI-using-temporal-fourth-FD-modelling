@@ -1,0 +1,525 @@
+Number of MPI thread is 1
+Maximum velocity for stability is 6060.915483 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Thu Mar  7 17:59:34 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 1000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5694.819955 m/s
+P-wave maximum velocity for stability is 5695 m/s
+S-wave maximum velocity for stability is 5281 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 10:46:44 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=4 Ns=1439 Ls=7
+0.764405 0.478883
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5694.819955 m/s
+P-wave maximum velocity for stability is 5695 m/s
+S-wave maximum velocity for stability is 5281 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 10:57:59 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=4 Ns=1439 Ls=7
+0.764405 0.478883
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5694.819955 m/s
+P-wave maximum velocity for stability is 5695 m/s
+S-wave maximum velocity for stability is 5281 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 11:00:24 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=4 Ns=1439 Ls=7
+0.764405 0.478883
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 11:23:59 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.726519 0.461024
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 12:27:58 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.726519 0.461024
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 13:11:11 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.726519 0.461024
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 13:23:32 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.726519 0.461024
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 14:12:49 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 14:28:57 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 14:30:42 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 14:34:36 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 14:43:12 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 14:56:23 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 15:01:11 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.165134e+03
+   an_vp == 8.962964e+08 , an_vs == 1.274748e+09
+Np=33 Lp=3 Ns=24 Ls=5
+0.482473 0.362014
+vp_max = 3001.510742
+vs_max = 2020.000000
+rho_max = 0.000000
+The cost of the run time is 39.879890 seconds
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 15:02:22 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1 Lp=3 Ns=1 Ls=5
+0.482247 0.358535
+vp_max = 3000.000000
+vs_max = 2000.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 15:04:59 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.726519 0.461024
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 15:07:47 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1001 Lp=3 Ns=501 Ls=5
+0.629796 0.444458
+vp_max = 4000.000000
+vs_max = 2500.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 15:20:39 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1001 Lp=3 Ns=501 Ls=5
+0.629796 0.444458
+vp_max = 4000.000000
+vs_max = 2500.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 15:21:42 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=1001 Lp=3 Ns=501 Ls=5
+0.629796 0.444458
+vp_max = 4000.000000
+vs_max = 2500.000000
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174881 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 15:24:40 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.726519 0.461024
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 6871.468601 m/s
+P-wave maximum velocity for stability is 7576 m/s
+S-wave maximum velocity for stability is 6871 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 15:32:27 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.595310 0.372152
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 6871.468601 m/s
+P-wave maximum velocity for stability is 7576 m/s
+S-wave maximum velocity for stability is 6871 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 16:16:10 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.595310 0.372152
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=3 Ns=1201 Ls=5
+0.546421 0.340089
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 0.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 9.228649e+02
+   an_vp == 1.140480e+12 , an_vs == 4.643646e+11
+Np=1924 Lp=3 Ns=1008 Ls=5
+0.546309 0.339930
+vp_max = 4282.571289
+vs_max = 2366.663574
+rho_max = 0.000000
+The cost of the run time is 108.916490 seconds
+Number of MPI thread is 1
+Maximum velocity for stability is 6871.468601 m/s
+P-wave maximum velocity for stability is 7576 m/s
+S-wave maximum velocity for stability is 6871 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 17:10:03 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.595310 0.372152
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=3 Ns=1201 Ls=5
+0.546421 0.340089
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 0.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 9.228649e+02
+   an_vp == 1.341368e+12 , an_vs == 2.039803e+11
+Np=1923 Lp=3 Ns=1009 Ls=5
+0.546233 0.340087
+vp_max = 4281.905762
+vs_max = 2367.781738
+rho_max = 0.000000
+The cost of the run time is 118.193044 seconds
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174259 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 17:15:18 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.726519 0.461024
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Number of MPI thread is 1
+Maximum velocity for stability is 5497.174259 m/s
+P-wave maximum velocity for stability is 6061 m/s
+S-wave maximum velocity for stability is 5497 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Mar 29 17:18:45 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=3 Ns=1439 Ls=5
+0.726519 0.461024
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 0.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=3 Ns=1201 Ls=5
+0.669692 0.421956
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 0.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.053153e+04
+   an_vp == 1.165765e+11 , an_vs == 1.117479e+10
+Np=1924 Lp=3 Ns=1009 Ls=5
+0.669645 0.421955
+vp_max = 4283.146484
+vs_max = 2367.786865
+rho_max = 0.000000
+The cost of the run time is 1076.494315 seconds
