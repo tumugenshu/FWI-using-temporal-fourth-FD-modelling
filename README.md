@@ -48,5 +48,5 @@ inversions of different frequency bands, objective function misfit, and
 temporal results, such as the synthetic data, residual data 
 andgradients.
 
-#FWI data
-Overthrust model inversion comparsion between FWI with the temporal 4th-order and with  the temporal 2th-order FD. "Tradition" folder contains results of FWI with  the temporal 2th-order, and "High_order" folder is FWI with  the temporal 4th-order FD.
+# FWI inversion data
+Overthrust model inversion comparsion between FWI with the temporal 4th-order and with  the temporal 2th-order FD. "Tradition" folder contains results of FWI with  the temporal 2th-order, and "High_order" folder is FWI with the temporal 4th-order FD.
