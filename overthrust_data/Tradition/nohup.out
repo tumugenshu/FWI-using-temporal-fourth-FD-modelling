@@ -1,0 +1,2417 @@
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Tue Apr  9 16:31:35 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.495317e+04
+   an_vp == 9.868295e+10 , an_vs == 6.696374e+09
+Np=1924 Lp=5 Ns=1009 Ls=7
+0.916971 0.574368
+vp_max = 4283.476074
+vs_max = 2367.767822
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 2.341846e+04
+   an_vp == 9.902708e+11 , an_vs == 7.998478e+10
+Np=1925 Lp=5 Ns=1009 Ls=7
+0.916923 0.574346
+vp_max = 4283.516602
+vs_max = 2367.676758
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 2.324556e+04
+   an_vp == 7.456339e+11 , an_vs == 6.055497e+10
+Np=1925 Lp=5 Ns=1009 Ls=7
+0.916937 0.574321
+vp_max = 4283.580566
+vs_max = 2367.573486
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 2.310958e+04
+   an_vp == 7.876772e+11 , an_vs == 6.280269e+10
+Np=1925 Lp=5 Ns=1008 Ls=7
+0.916960 0.574311
+vp_max = 4283.687988
+vs_max = 2367.450684
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 2.300207e+04
+   an_vp == 8.433451e+11 , an_vs == 6.200291e+10
+Np=1925 Lp=5 Ns=1008 Ls=7
+0.916998 0.574276
+vp_max = 4283.863770
+vs_max = 2367.305908
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 2.290982e+04
+   an_vp == 7.331900e+11 , an_vs == 5.161431e+10
+Np=1925 Lp=5 Ns=1008 Ls=7
+0.917048 0.574237
+vp_max = 4284.099609
+vs_max = 2367.145752
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 2.282595e+04
+   an_vp == 6.474969e+11 , an_vs == 3.758879e+10
+Np=1925 Lp=5 Ns=1008 Ls=7
+0.917114 0.574202
+vp_max = 4284.405273
+vs_max = 2366.999268
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 2.274626e+04
+   an_vp == 6.161772e+11 , an_vs == 2.950325e+10
+Np=1926 Lp=5 Ns=1008 Ls=7
+0.917141 0.574170
+vp_max = 4284.796387
+vs_max = 2366.868408
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 2.266835e+04
+   an_vp == 5.987859e+11 , an_vs == 2.537450e+10
+Np=1926 Lp=5 Ns=1008 Ls=7
+0.917242 0.574141
+vp_max = 4285.269043
+vs_max = 2366.750732
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 2.259683e+04
+   an_vp == 6.115743e+11 , an_vs == 2.343840e+10
+Np=1927 Lp=5 Ns=1008 Ls=7
+0.917307 0.574116
+vp_max = 4285.835938
+vs_max = 2366.644531
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 2.253468e+04
+   an_vp == 6.409454e+11 , an_vs == 2.263300e+10
+Np=1928 Lp=5 Ns=1008 Ls=7
+0.917397 0.574092
+vp_max = 4286.520996
+vs_max = 2366.548584
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 2.248295e+04
+   an_vp == 6.528459e+11 , an_vs == 2.217806e+10
+Np=1937 Lp=5 Ns=1007 Ls=7
+0.918922 0.574091
+vp_max = 4296.026855
+vs_max = 2366.462158
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 2.244007e+04
+   an_vp == 6.018664e+11 , an_vs == 2.151026e+10
+Np=1956 Lp=5 Ns=1007 Ls=7
+0.921818 0.574072
+vp_max = 4314.633301
+vs_max = 2366.384766
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 2.240409e+04
+   an_vp == 5.129746e+11 , an_vs == 2.040636e+10
+Np=1973 Lp=5 Ns=1007 Ls=7
+0.924613 0.574056
+vp_max = 4332.290039
+vs_max = 2366.315430
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 2.237262e+04
+   an_vp == 4.336844e+11 , an_vs == 1.903767e+10
+Np=1990 Lp=5 Ns=1007 Ls=7
+0.927148 0.574041
+vp_max = 4348.787109
+vs_max = 2366.253662
+rho_max = 2000.000000
+====================
+   FREQUENCY == 2
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 2.768295e+04
+   an_vp == 5.036527e+11 , an_vs == 3.641519e+10
+Np=1985 Lp=5 Ns=1007 Ls=7
+0.926522 0.573989
+vp_max = 4344.488281
+vs_max = 2366.041016
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 2.756453e+04
+   an_vp == 3.671101e+11 , an_vs == 2.521133e+10
+Np=1982 Lp=5 Ns=1007 Ls=7
+0.925958 0.573930
+vp_max = 4341.029297
+vs_max = 2365.798096
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 2.746770e+04
+   an_vp == 3.600688e+11 , an_vs == 2.266376e+10
+Np=1978 Lp=5 Ns=1007 Ls=7
+0.925287 0.573861
+vp_max = 4336.799316
+vs_max = 2365.511963
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 2.737142e+04
+   an_vp == 3.213469e+11 , an_vs == 2.101319e+10
+Np=1975 Lp=5 Ns=1006 Ls=7
+0.924820 0.573797
+vp_max = 4333.800781
+vs_max = 2365.169678
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 2.727385e+04
+   an_vp == 3.070586e+11 , an_vs == 1.961278e+10
+Np=1974 Lp=5 Ns=1006 Ls=7
+0.924615 0.573700
+vp_max = 4332.571289
+vs_max = 2364.769043
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 2.717513e+04
+   an_vp == 3.169643e+11 , an_vs == 1.855351e+10
+Np=1984 Lp=5 Ns=1005 Ls=7
+0.926327 0.573613
+vp_max = 4343.301758
+vs_max = 2364.328613
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 2.708298e+04
+   an_vp == 3.316993e+11 , an_vs == 1.778332e+10
+Np=1999 Lp=5 Ns=1005 Ls=7
+0.928510 0.573500
+vp_max = 4357.630859
+vs_max = 2363.862793
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 2.700288e+04
+   an_vp == 3.189648e+11 , an_vs == 1.627329e+10
+Np=2016 Lp=5 Ns=1004 Ls=7
+0.931153 0.573405
+vp_max = 4374.711426
+vs_max = 2363.391602
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 2.693594e+04
+   an_vp == 2.906489e+11 , an_vs == 1.420774e+10
+Np=2035 Lp=5 Ns=1004 Ls=7
+0.934150 0.573292
+vp_max = 4394.068848
+vs_max = 2362.923584
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 2.687889e+04
+   an_vp == 2.784863e+11 , an_vs == 1.237843e+10
+Np=2055 Lp=5 Ns=1003 Ls=7
+0.937216 0.573199
+vp_max = 4414.101074
+vs_max = 2362.459229
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 2.682929e+04
+   an_vp == 2.751236e+11 , an_vs == 1.108105e+10
+Np=2075 Lp=5 Ns=1003 Ls=7
+0.940318 0.573087
+vp_max = 4434.383301
+vs_max = 2361.999268
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 2.678940e+04
+   an_vp == 2.743882e+11 , an_vs == 1.000559e+10
+Np=2094 Lp=5 Ns=1003 Ls=7
+0.943185 0.572978
+vp_max = 4453.338379
+vs_max = 2361.547852
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 2.675940e+04
+   an_vp == 2.441058e+11 , an_vs == 8.865609e+09
+Np=2112 Lp=5 Ns=1002 Ls=7
+0.945848 0.572890
+vp_max = 4471.110352
+vs_max = 2361.106689
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 2.673713e+04
+   an_vp == 1.998009e+11 , an_vs == 7.798047e+09
+Np=2129 Lp=5 Ns=1002 Ls=7
+0.948391 0.572785
+vp_max = 4488.086426
+vs_max = 2360.675293
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 2.671891e+04
+   an_vp == 1.704007e+11 , an_vs == 7.031654e+09
+Np=2145 Lp=5 Ns=1001 Ls=7
+0.950710 0.572703
+vp_max = 4503.756348
+vs_max = 2360.253418
+rho_max = 2000.000000
+====================
+   FREQUENCY == 3
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 3.068968e+04
+   an_vp == 3.880291e+11 , an_vs == 2.228218e+10
+Np=2145 Lp=5 Ns=1001 Ls=7
+0.950687 0.572709
+vp_max = 4503.650879
+vs_max = 2360.280518
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 3.056738e+04
+   an_vp == 3.148447e+11 , an_vs == 1.447822e+10
+Np=2145 Lp=5 Ns=1001 Ls=7
+0.950733 0.572714
+vp_max = 4503.866211
+vs_max = 2360.299072
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 3.046273e+04
+   an_vp == 2.891405e+11 , an_vs == 1.160892e+10
+Np=2145 Lp=5 Ns=1001 Ls=7
+0.950827 0.572715
+vp_max = 4504.313965
+vs_max = 2360.305908
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 3.038036e+04
+   an_vp == 2.532742e+11 , an_vs == 9.296674e+09
+Np=2146 Lp=5 Ns=1001 Ls=7
+0.950902 0.572714
+vp_max = 4504.960938
+vs_max = 2360.301025
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 3.030722e+04
+   an_vp == 2.192119e+11 , an_vs == 7.786318e+09
+Np=2147 Lp=5 Ns=1001 Ls=7
+0.951135 0.572710
+vp_max = 4506.360352
+vs_max = 2360.285156
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 3.024151e+04
+   an_vp == 1.749730e+11 , an_vs == 6.788429e+09
+Np=2149 Lp=5 Ns=1001 Ls=7
+0.951391 0.572704
+vp_max = 4508.161621
+vs_max = 2360.259033
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 3.018681e+04
+   an_vp == 1.352601e+11 , an_vs == 6.016462e+09
+Np=2151 Lp=5 Ns=1001 Ls=7
+0.951646 0.572695
+vp_max = 4509.960938
+vs_max = 2360.223389
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 3.014089e+04
+   an_vp == 1.076461e+11 , an_vs == 5.477152e+09
+Np=2153 Lp=5 Ns=1001 Ls=7
+0.951944 0.572685
+vp_max = 4511.964844
+vs_max = 2360.178711
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 3.010266e+04
+   an_vp == 6.542540e+10 , an_vs == 5.119171e+09
+Np=2156 Lp=5 Ns=1001 Ls=7
+0.952311 0.572672
+vp_max = 4514.592773
+vs_max = 2360.125000
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 3.007739e+04
+   an_vp == 2.444936e+10 , an_vs == 4.364569e+09
+Np=2157 Lp=5 Ns=1001 Ls=7
+0.952499 0.572658
+vp_max = 4515.779785
+vs_max = 2360.068604
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 3.006623e+04
+   an_vp == 5.991539e+09 , an_vs == 2.419760e+09
+Np=2158 Lp=5 Ns=1001 Ls=7
+0.952643 0.572649
+vp_max = 4516.760742
+vs_max = 2360.030762
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 3.006204e+04
+   an_vp == 5.569270e+08 , an_vs == 7.508391e+08
+Np=2159 Lp=5 Ns=1001 Ls=7
+0.952755 0.572644
+vp_max = 4517.584961
+vs_max = 2360.012939
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 3.005910e+04
+   an_vp == 4.465348e+07 , an_vs == 1.191535e+08
+Np=2159 Lp=5 Ns=1001 Ls=7
+0.952918 0.572641
+vp_max = 4518.361816
+vs_max = 2360.000732
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 3.005642e+04
+   an_vp == 4.630638e+04 , an_vs == 1.440120e+05
+Np=2160 Lp=5 Ns=1001 Ls=7
+0.953019 0.572639
+vp_max = 4519.137207
+vs_max = 2359.988770
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 3.005396e+04
+   an_vp == 5.201227e+06 , an_vs == 1.394250e+07
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953117 0.572636
+vp_max = 4519.897949
+vs_max = 2359.978027
+rho_max = 2000.000000
+====================
+   FREQUENCY == 4
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 3.232218e+04
+   an_vp == 5.216063e+08 , an_vs == 2.384899e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953118 0.572636
+vp_max = 4519.899902
+vs_max = 2359.977783
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 3.232210e+04
+   an_vp == 2.720178e+06 , an_vs == 1.598278e+06
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953118 0.572636
+vp_max = 4519.901367
+vs_max = 2359.977539
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 3.232203e+04
+   an_vp == 2.638988e+07 , an_vs == 1.403121e+07
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953118 0.572636
+vp_max = 4519.902832
+vs_max = 2359.977295
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 3.232201e+04
+   an_vp == 1.746060e+08 , an_vs == 7.984880e+07
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953119 0.572636
+vp_max = 4519.904297
+vs_max = 2359.977051
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 3.232198e+04
+   an_vp == 9.903835e+06 , an_vs == 5.396924e+06
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953119 0.572636
+vp_max = 4519.905762
+vs_max = 2359.976807
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 3.232196e+04
+   an_vp == 2.755690e+05 , an_vs == 1.492532e+05
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953119 0.572636
+vp_max = 4519.907227
+vs_max = 2359.976562
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 3.232195e+04
+   an_vp == 8.962710e+07 , an_vs == 4.099568e+07
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953119 0.572635
+vp_max = 4519.908691
+vs_max = 2359.976318
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 3.232194e+04
+   an_vp == 5.372488e+08 , an_vs == 1.523191e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953120 0.572635
+vp_max = 4519.911133
+vs_max = 2359.976074
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 3.232183e+04
+   an_vp == 1.043261e+09 , an_vs == 1.753898e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953121 0.572635
+vp_max = 4519.916016
+vs_max = 2359.975586
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 3.232159e+04
+   an_vp == 1.354642e+09 , an_vs == 1.709320e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953123 0.572635
+vp_max = 4519.924316
+vs_max = 2359.974854
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 3.232127e+04
+   an_vp == 1.455000e+09 , an_vs == 1.649100e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953125 0.572635
+vp_max = 4519.935547
+vs_max = 2359.974121
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 3.232080e+04
+   an_vp == 1.407454e+09 , an_vs == 1.603520e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953128 0.572635
+vp_max = 4519.950195
+vs_max = 2359.973145
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 3.232025e+04
+   an_vp == 1.226198e+09 , an_vs == 1.568308e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953132 0.572634
+vp_max = 4519.968262
+vs_max = 2359.972168
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 3.231964e+04
+   an_vp == 8.789896e+08 , an_vs == 1.527121e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953136 0.572634
+vp_max = 4519.988770
+vs_max = 2359.970947
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 3.231889e+04
+   an_vp == 7.078690e+08 , an_vs == 1.503148e+08
+Np=2161 Lp=5 Ns=1001 Ls=7
+0.953141 0.572634
+vp_max = 4520.011719
+vs_max = 2359.969482
+rho_max = 2000.000000
+The cost of the run time is 65112.656530 seconds
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Wed Apr 10 18:52:40 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.495317e+04
+   an_vp == 1.184195e+11 , an_vs == 8.035650e+09
+Np=2347 Lp=5 Ns=1210 Ls=7
+0.916973 0.574377
+vp_max = 4283.481934
+vs_max = 2367.760742
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.094829e+04
+   an_vp == 6.746060e+10 , an_vs == 4.597340e+09
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916974 0.574355
+vp_max = 4283.490723
+vs_max = 2367.711426
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 8.518951e+03
+   an_vp == 4.383873e+10 , an_vs == 2.831101e+09
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916974 0.574341
+vp_max = 4283.491699
+vs_max = 2367.653076
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 8.459609e+03
+   an_vp == 2.004888e+10 , an_vs == 1.200299e+09
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916973 0.574324
+vp_max = 4283.484863
+vs_max = 2367.583496
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 9.218553e+03
+   an_vp == 1.089215e+10 , an_vs == 7.031521e+08
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916970 0.574304
+vp_max = 4283.469238
+vs_max = 2367.501465
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 9.241724e+03
+   an_vp == 9.197883e+09 , an_vs == 7.060194e+08
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916965 0.574301
+vp_max = 4283.446289
+vs_max = 2367.407959
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 8.772479e+03
+   an_vp == 1.047011e+10 , an_vs == 7.585172e+08
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916958 0.574280
+vp_max = 4283.414062
+vs_max = 2367.320312
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 8.041934e+03
+   an_vp == 1.531832e+10 , an_vs == 1.020111e+09
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916948 0.574259
+vp_max = 4283.368652
+vs_max = 2367.235107
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 7.246962e+03
+   an_vp == 2.862890e+10 , an_vs == 1.744839e+09
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916935 0.574237
+vp_max = 4283.307617
+vs_max = 2367.143799
+rho_max = 2000.000000
+====================
+ITERATION == 10
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Wed Apr 10 21:34:33 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.495317e+04
+   an_vp == 1.184195e+11 , an_vs == 8.035650e+09
+Np=2347 Lp=5 Ns=1210 Ls=7
+0.916973 0.574377
+vp_max = 4283.481934
+vs_max = 2367.760742
+rho_max = 2000.000000
+====================
+ITERATION == 2
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Wed Apr 10 22:19:47 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.495317e+04
+   an_vp == 1.489390e+11 , an_vs == 1.363176e+10
+Np=2344 Lp=5 Ns=1200 Ls=7
+0.916954 0.574374
+vp_max = 4283.482422
+vs_max = 2367.732178
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.180414e+04
+   an_vp == 1.257818e+11 , an_vs == 1.349921e+10
+Np=2354 Lp=5 Ns=1201 Ls=7
+0.916971 0.574358
+vp_max = 4283.476562
+vs_max = 2367.683594
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 9.810695e+03
+   an_vp == 1.105883e+11 , an_vs == 1.249077e+10
+Np=2354 Lp=5 Ns=1202 Ls=7
+0.916965 0.574353
+vp_max = 4283.449219
+vs_max = 2367.640381
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 8.515041e+03
+   an_vp == 9.348627e+10 , an_vs == 1.220991e+10
+Np=2354 Lp=5 Ns=1204 Ls=7
+0.916955 0.574335
+vp_max = 4283.401855
+vs_max = 2367.593750
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 7.741079e+03
+   an_vp == 1.017893e+11 , an_vs == 1.441630e+10
+Np=2354 Lp=5 Ns=1203 Ls=7
+0.916937 0.574322
+vp_max = 4283.317871
+vs_max = 2367.544434
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 7.312564e+03
+   an_vp == 1.563251e+11 , an_vs == 2.083712e+10
+Np=2354 Lp=5 Ns=1200 Ls=7
+0.916909 0.574315
+vp_max = 4283.187500
+vs_max = 2367.492432
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 7.334976e+03
+   an_vp == 1.302180e+11 , an_vs == 1.274696e+10
+Np=2354 Lp=5 Ns=1200 Ls=7
+0.916878 0.574303
+vp_max = 4283.040527
+vs_max = 2367.441650
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 7.393664e+03
+   an_vp == 1.102770e+11 , an_vs == 1.089244e+10
+Np=2354 Lp=5 Ns=1200 Ls=7
+0.916842 0.574292
+vp_max = 4282.873535
+vs_max = 2367.393799
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 7.267699e+03
+   an_vp == 1.706758e+11 , an_vs == 1.654411e+10
+Np=2354 Lp=5 Ns=1200 Ls=7
+0.916797 0.574280
+vp_max = 4282.662598
+vs_max = 2367.344727
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 7.205226e+03
+   an_vp == 1.971759e+11 , an_vs == 2.821059e+10
+Np=2353 Lp=5 Ns=1200 Ls=7
+0.916793 0.574268
+vp_max = 4282.381836
+vs_max = 2367.295654
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 7.243821e+03
+   an_vp == 1.262973e+11 , an_vs == 2.060715e+10
+Np=2353 Lp=5 Ns=1200 Ls=7
+0.916721 0.574256
+vp_max = 4282.044922
+vs_max = 2367.248535
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 7.251825e+03
+   an_vp == 2.136778e+11 , an_vs == 2.728943e+10
+Np=2353 Lp=5 Ns=1212 Ls=7
+0.916691 0.576899
+vp_max = 4281.905762
+vs_max = 2379.125732
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 7.481779e+03
+   an_vp == 1.957807e+11 , an_vs == 1.908491e+10
+Np=2353 Lp=5 Ns=1234 Ls=7
+0.916691 0.580307
+vp_max = 4281.905762
+vs_max = 2394.427490
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 7.621557e+03
+   an_vp == 1.348420e+11 , an_vs == 1.344232e+10
+Np=2353 Lp=5 Ns=1257 Ls=7
+0.916691 0.583617
+vp_max = 4281.905762
+vs_max = 2409.365723
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 7.565104e+03
+   an_vp == 1.744215e+11 , an_vs == 1.807129e+10
+Np=2353 Lp=5 Ns=1274 Ls=7
+0.916691 0.586722
+vp_max = 4281.905762
+vs_max = 2423.327881
+rho_max = 2000.000000
+====================
+   FREQUENCY == 2
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.153015e+04
+   an_vp == 3.085170e+10 , an_vs == 3.129479e+09
+Np=2353 Lp=5 Ns=1269 Ls=7
+0.916691 0.586540
+vp_max = 4281.905762
+vs_max = 2422.511230
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.056052e+04
+   an_vp == 2.830691e+10 , an_vs == 2.191541e+09
+Np=2353 Lp=5 Ns=1264 Ls=7
+0.916691 0.586313
+vp_max = 4281.905762
+vs_max = 2421.469238
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 9.657306e+03
+   an_vp == 2.603082e+10 , an_vs == 2.142365e+09
+Np=2353 Lp=5 Ns=1260 Ls=7
+0.916691 0.586227
+vp_max = 4281.905762
+vs_max = 2421.097656
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 9.089714e+03
+   an_vp == 2.517598e+10 , an_vs == 2.621633e+09
+Np=2353 Lp=5 Ns=1272 Ls=7
+0.916691 0.586117
+vp_max = 4281.905762
+vs_max = 2420.659180
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 8.826594e+03
+   an_vp == 2.181279e+10 , an_vs == 3.152110e+09
+Np=2353 Lp=5 Ns=1271 Ls=7
+0.916691 0.585991
+vp_max = 4281.905762
+vs_max = 2420.050537
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 8.783802e+03
+   an_vp == 1.948208e+10 , an_vs == 3.303002e+09
+Np=2353 Lp=5 Ns=1273 Ls=7
+0.916691 0.586339
+vp_max = 4281.905762
+vs_max = 2421.660156
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 8.879417e+03
+   an_vp == 1.929808e+10 , an_vs == 3.433760e+09
+Np=2353 Lp=5 Ns=1275 Ls=7
+0.916691 0.586808
+vp_max = 4281.905762
+vs_max = 2423.769287
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 9.055074e+03
+   an_vp == 1.540199e+10 , an_vs == 3.112092e+09
+Np=2353 Lp=5 Ns=1279 Ls=7
+0.916691 0.587709
+vp_max = 4281.905762
+vs_max = 2427.830322
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 9.206572e+03
+   an_vp == 1.441849e+10 , an_vs == 2.819180e+09
+Np=2353 Lp=5 Ns=1283 Ls=7
+0.916691 0.588677
+vp_max = 4281.905762
+vs_max = 2432.172363
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 9.321660e+03
+   an_vp == 1.735611e+10 , an_vs == 2.769279e+09
+Np=2353 Lp=5 Ns=1288 Ls=7
+0.916691 0.589643
+vp_max = 4281.905762
+vs_max = 2436.598633
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 9.446141e+03
+   an_vp == 1.858900e+10 , an_vs == 2.816709e+09
+Np=2353 Lp=5 Ns=1292 Ls=7
+0.916691 0.590707
+vp_max = 4281.905762
+vs_max = 2441.338867
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 9.593545e+03
+   an_vp == 1.666377e+10 , an_vs == 2.887218e+09
+Np=2353 Lp=5 Ns=1299 Ls=7
+0.916691 0.592146
+vp_max = 4281.905762
+vs_max = 2447.895020
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 9.754833e+03
+   an_vp == 1.338025e+10 , an_vs == 2.566052e+09
+Np=2353 Lp=5 Ns=1305 Ls=7
+0.916691 0.593610
+vp_max = 4281.905762
+vs_max = 2454.474365
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 9.900429e+03
+   an_vp == 1.150523e+10 , an_vs == 2.333878e+09
+Np=2353 Lp=5 Ns=1312 Ls=7
+0.916691 0.594927
+vp_max = 4281.905762
+vs_max = 2460.536621
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 1.003241e+04
+   an_vp == 9.969061e+09 , an_vs == 2.397777e+09
+Np=2353 Lp=5 Ns=1318 Ls=7
+0.916691 0.596311
+vp_max = 4281.905762
+vs_max = 2466.787354
+rho_max = 2000.000000
+====================
+   FREQUENCY == 3
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.440823e+04
+   an_vp == 3.373223e+09 , an_vs == 5.537282e+08
+Np=2353 Lp=5 Ns=1317 Ls=7
+0.916691 0.596260
+vp_max = 4281.905762
+vs_max = 2466.490967
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.383911e+04
+   an_vp == 2.451946e+09 , an_vs == 3.611209e+08
+Np=2353 Lp=5 Ns=1317 Ls=7
+0.916691 0.596144
+vp_max = 4281.905762
+vs_max = 2466.009277
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 1.348443e+04
+   an_vp == 2.527186e+09 , an_vs == 3.578163e+08
+Np=2353 Lp=5 Ns=1316 Ls=7
+0.916691 0.596015
+vp_max = 4281.905762
+vs_max = 2465.389893
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 1.316089e+04
+   an_vp == 2.643498e+09 , an_vs == 3.970284e+08
+Np=2353 Lp=5 Ns=1316 Ls=7
+0.916691 0.595811
+vp_max = 4281.905762
+vs_max = 2464.545654
+rho_max = 2000.000000
+====================
+ITERATION == 5
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Thu Apr 11 09:52:43 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.634518e+04
+   an_vp == -5.140137e-19 , an_vs == -2.841363e-19
+Np=-7999 Lp=5 Ns=-7999 Ls=7
+-inf -inf
+vp_max = -1.000000
+vs_max = -1.000000
+rho_max = 2000.000000
+====================
+ITERATION == 2
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Thu Apr 11 10:18:03 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.495317e+04
+   an_vp == 1.132483e+11 , an_vs == 7.155335e+08
+Np=2346 Lp=5 Ns=1210 Ls=7
+0.916963 0.574382
+vp_max = 4283.489258
+vs_max = 2367.793945
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.105161e+04
+   an_vp == 5.968860e+10 , an_vs == 3.538488e+08
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.916920 0.574371
+vp_max = 4283.500977
+vs_max = 2367.779053
+rho_max = 2000.000000
+====================
+ITERATION == 3
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Thu Apr 11 11:12:05 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.495317e+04
+   an_vp == 2.048442e+11 , an_vs == 8.661139e+09
+Np=2346 Lp=5 Ns=1214 Ls=7
+0.916930 0.574371
+vp_max = 4283.445801
+vs_max = 2367.752441
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.200704e+04
+   an_vp == 1.042679e+11 , an_vs == 3.692886e+09
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916947 0.574352
+vp_max = 4283.366211
+vs_max = 2367.701172
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 9.612648e+03
+   an_vp == 4.050734e+10 , an_vs == 1.585907e+09
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916921 0.574339
+vp_max = 4283.240723
+vs_max = 2367.647461
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 8.306565e+03
+   an_vp == 7.387637e+09 , an_vs == 3.284698e+08
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916892 0.574325
+vp_max = 4283.107422
+vs_max = 2367.590088
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 8.206772e+03
+   an_vp == 2.289617e+09 , an_vs == 9.608900e+07
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916863 0.574311
+vp_max = 4282.970703
+vs_max = 2367.529541
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 8.801188e+03
+   an_vp == 1.303684e+09 , an_vs == 5.697714e+07
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916833 0.574315
+vp_max = 4282.831055
+vs_max = 2367.466309
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 9.523900e+03
+   an_vp == 1.031638e+09 , an_vs == 4.865376e+07
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916802 0.574299
+vp_max = 4282.688477
+vs_max = 2367.400146
+rho_max = 2000.000000
+====================
+ITERATION == 8
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Thu Apr 11 15:44:57 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == 1
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.495317e+04
+   an_vp == 1.288635e+11 , an_vs == 5.590044e+10
+Np=2349 Lp=5 Ns=1212 Ls=7
+0.916931 0.574365
+vp_max = 4283.475586
+vs_max = 2367.739990
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.085346e+04
+   an_vp == 7.686314e+10 , an_vs == 3.763964e+10
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916972 0.574340
+vp_max = 4283.481445
+vs_max = 2367.652588
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 8.460729e+03
+   an_vp == 5.259642e+10 , an_vs == 2.481691e+10
+Np=2354 Lp=5 Ns=1219 Ls=7
+0.916972 0.574312
+vp_max = 4283.480957
+vs_max = 2367.535156
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 8.364358e+03
+   an_vp == 2.512591e+10 , an_vs == 1.183224e+10
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916970 0.574296
+vp_max = 4283.473145
+vs_max = 2367.387939
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 8.937014e+03
+   an_vp == 1.502656e+10 , an_vs == 7.089692e+09
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916967 0.574259
+vp_max = 4283.457031
+vs_max = 2367.233398
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 8.782332e+03
+   an_vp == 1.457691e+10 , an_vs == 6.641322e+09
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916962 0.574223
+vp_max = 4283.433105
+vs_max = 2367.087646
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 8.122927e+03
+   an_vp == 1.993484e+10 , an_vs == 8.487582e+09
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916954 0.574188
+vp_max = 4283.398438
+vs_max = 2366.943359
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 7.273296e+03
+   an_vp == 3.599221e+10 , an_vs == 1.314104e+10
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916944 0.574151
+vp_max = 4283.348633
+vs_max = 2366.788818
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 6.712790e+03
+   an_vp == 4.347200e+10 , an_vs == 1.388241e+10
+Np=2354 Lp=5 Ns=1218 Ls=7
+0.916930 0.574111
+vp_max = 4283.284668
+vs_max = 2366.627197
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 6.718658e+03
+   an_vp == 2.982008e+10 , an_vs == 9.777787e+09
+Np=2354 Lp=5 Ns=1217 Ls=7
+0.916913 0.574088
+vp_max = 4283.207031
+vs_max = 2366.450439
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 6.510063e+03
+   an_vp == 3.071071e+10 , an_vs == 1.020031e+10
+Np=2354 Lp=5 Ns=1217 Ls=7
+0.916892 0.574039
+vp_max = 4283.107910
+vs_max = 2366.247314
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 5.800275e+03
+   an_vp == 5.492845e+10 , an_vs == 2.291827e+10
+Np=2354 Lp=5 Ns=1217 Ls=7
+0.916865 0.573973
+vp_max = 4282.982910
+vs_max = 2365.974609
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 5.247867e+03
+   an_vp == 1.017302e+11 , an_vs == 5.951980e+10
+Np=2354 Lp=5 Ns=1217 Ls=7
+0.916826 0.573866
+vp_max = 4282.799805
+vs_max = 2365.533203
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 5.262920e+03
+   an_vp == 5.221872e+10 , an_vs == 2.332379e+10
+Np=2354 Lp=5 Ns=1216 Ls=7
+0.916771 0.573771
+vp_max = 4282.542480
+vs_max = 2365.060303
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 5.037536e+03
+   an_vp == 5.902449e+10 , an_vs == 2.156598e+10
+Np=2353 Lp=5 Ns=1216 Ls=7
+0.916757 0.573651
+vp_max = 4282.213867
+vs_max = 2364.566406
+rho_max = 2000.000000
+====================
+   FREQUENCY == 2
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 7.849577e+03
+   an_vp == 3.048477e+10 , an_vs == 1.864445e+10
+Np=2353 Lp=5 Ns=1215 Ls=7
+0.916722 0.573633
+vp_max = 4282.051758
+vs_max = 2364.409668
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 6.866633e+03
+   an_vp == 3.845523e+10 , an_vs == 1.752435e+10
+Np=2353 Lp=5 Ns=1215 Ls=7
+0.916691 0.573570
+vp_max = 4281.905762
+vs_max = 2364.152100
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 7.359387e+03
+   an_vp == 2.101014e+10 , an_vs == 8.746209e+09
+Np=2353 Lp=5 Ns=1215 Ls=7
+0.916691 0.573499
+vp_max = 4281.905762
+vs_max = 2363.857666
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 7.148305e+03
+   an_vp == 2.555423e+10 , an_vs == 8.832032e+09
+Np=2353 Lp=5 Ns=1215 Ls=7
+0.916691 0.573424
+vp_max = 4281.905762
+vs_max = 2363.548584
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 6.876559e+03
+   an_vp == 1.677439e+10 , an_vs == 5.439811e+09
+Np=2353 Lp=5 Ns=1214 Ls=7
+0.916691 0.573375
+vp_max = 4281.905762
+vs_max = 2363.268799
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 6.597326e+03
+   an_vp == 1.654109e+10 , an_vs == 4.845856e+09
+Np=2353 Lp=5 Ns=1214 Ls=7
+0.916691 0.573311
+vp_max = 4281.905762
+vs_max = 2363.002686
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 5.674222e+03
+   an_vp == 2.394965e+10 , an_vs == 8.620631e+09
+Np=2353 Lp=5 Ns=1214 Ls=7
+0.916691 0.573235
+vp_max = 4281.905762
+vs_max = 2362.691406
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 5.138684e+03
+   an_vp == 2.788448e+10 , an_vs == 1.441597e+10
+Np=2353 Lp=5 Ns=1213 Ls=7
+0.916691 0.573141
+vp_max = 4281.905762
+vs_max = 2362.220215
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 6.216953e+03
+   an_vp == 1.311590e+10 , an_vs == 6.105002e+09
+Np=2353 Lp=5 Ns=1213 Ls=7
+0.916691 0.573028
+vp_max = 4281.905762
+vs_max = 2361.754395
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 6.266878e+03
+   an_vp == 1.197354e+10 , an_vs == 5.408333e+09
+Np=2353 Lp=5 Ns=1219 Ls=7
+0.916691 0.574343
+vp_max = 4281.905762
+vs_max = 2367.663086
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 5.060574e+03
+   an_vp == 2.952295e+10 , an_vs == 1.145021e+10
+Np=2353 Lp=5 Ns=1229 Ls=7
+0.916691 0.576558
+vp_max = 4281.905762
+vs_max = 2377.612061
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 4.830903e+03
+   an_vp == 1.980338e+10 , an_vs == 9.049754e+09
+Np=2353 Lp=5 Ns=1239 Ls=7
+0.916691 0.578767
+vp_max = 4281.905762
+vs_max = 2387.550537
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 4.724354e+03
+   an_vp == 2.380140e+10 , an_vs == 8.934147e+09
+Np=2353 Lp=5 Ns=1248 Ls=7
+0.916691 0.580986
+vp_max = 4281.905762
+vs_max = 2397.450195
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 4.825060e+03
+   an_vp == 1.910476e+10 , an_vs == 6.627037e+09
+Np=2385 Lp=5 Ns=1264 Ls=7
+0.921663 0.584518
+vp_max = 4313.641113
+vs_max = 2413.377686
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 4.518261e+03
+   an_vp == 2.260514e+10 , an_vs == 1.083741e+10
+Np=2419 Lp=5 Ns=1286 Ls=7
+0.926961 0.589387
+vp_max = 4347.636230
+vs_max = 2435.364990
+rho_max = 2000.000000
+====================
+   FREQUENCY == 3
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 6.220556e+03
+   an_vp == 7.489767e+09 , an_vs == 4.218508e+09
+Np=2422 Lp=5 Ns=1294 Ls=7
+0.927598 0.591072
+vp_max = 4351.441406
+vs_max = 2443.022461
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 9.746695e+03
+   an_vp == 8.060483e+08 , an_vs == 3.618512e+08
+Np=2427 Lp=5 Ns=1302 Ls=7
+0.928289 0.592905
+vp_max = 4356.046387
+vs_max = 2451.296143
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 1.385686e+04
+   an_vp == 1.014977e+09 , an_vs == 3.663310e+08
+Np=2433 Lp=5 Ns=1312 Ls=7
+0.929283 0.594968
+vp_max = 4362.355957
+vs_max = 2460.703857
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 1.539387e+04
+   an_vp == 2.411748e+09 , an_vs == 7.061365e+08
+Np=2443 Lp=5 Ns=1321 Ls=7
+0.930729 0.597000
+vp_max = 4371.893555
+vs_max = 2469.904053
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 1.553967e+04
+   an_vp == 1.909633e+09 , an_vs == 9.214907e+08
+Np=2454 Lp=5 Ns=1333 Ls=7
+0.932404 0.599694
+vp_max = 4382.805176
+vs_max = 2482.123779
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 1.541922e+04
+   an_vp == 9.291471e+08 , an_vs == 6.861494e+08
+Np=2462 Lp=5 Ns=1347 Ls=7
+0.933621 0.602795
+vp_max = 4390.748047
+vs_max = 2496.227295
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 1.505281e+04
+   an_vp == 7.350334e+08 , an_vs == 6.467073e+08
+Np=2469 Lp=5 Ns=1360 Ls=7
+0.934834 0.605641
+vp_max = 4398.403320
+vs_max = 2509.199707
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 1.488736e+04
+   an_vp == 8.170304e+08 , an_vs == 6.202712e+08
+Np=2478 Lp=5 Ns=1370 Ls=7
+0.936057 0.607834
+vp_max = 4406.679199
+vs_max = 2519.210205
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 1.486014e+04
+   an_vp == 7.334683e+08 , an_vs == 2.458618e+08
+Np=2487 Lp=5 Ns=1379 Ls=7
+0.937423 0.609771
+vp_max = 4415.639160
+vs_max = 2528.073730
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 1.482960e+04
+   an_vp == 5.773971e+08 , an_vs == 1.985519e+08
+Np=2496 Lp=5 Ns=1388 Ls=7
+0.938944 0.611785
+vp_max = 4425.349121
+vs_max = 2537.267090
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 1.477195e+04
+   an_vp == 7.408564e+08 , an_vs == 3.065213e+08
+Np=2506 Lp=5 Ns=1399 Ls=7
+0.940407 0.614044
+vp_max = 4435.085449
+vs_max = 2547.676758
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 1.471757e+04
+   an_vp == 1.146737e+09 , an_vs == 6.356439e+08
+Np=2517 Lp=5 Ns=1409 Ls=7
+0.942009 0.616318
+vp_max = 4445.782227
+vs_max = 2558.059814
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 1.471662e+04
+   an_vp == 1.915935e+09 , an_vs == 9.533181e+08
+Np=2530 Lp=5 Ns=1418 Ls=7
+0.943957 0.618234
+vp_max = 4458.708008
+vs_max = 2566.879395
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 1.457436e+04
+   an_vp == 1.747128e+09 , an_vs == 6.833743e+08
+Np=2543 Lp=5 Ns=1427 Ls=7
+0.945891 0.620219
+vp_max = 4471.602051
+vs_max = 2575.990234
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 1.487246e+04
+   an_vp == 1.285755e+09 , an_vs == 6.131551e+08
+Np=2553 Lp=5 Ns=1437 Ls=7
+0.947547 0.622301
+vp_max = 4482.341309
+vs_max = 2585.611572
+rho_max = 2000.000000
+====================
+   FREQUENCY == 4
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.666260e+04
+   an_vp == 2.650135e+09 , an_vs == 1.566109e+09
+Np=2554 Lp=5 Ns=1437 Ls=7
+0.947699 0.622482
+vp_max = 4483.350098
+vs_max = 2586.362793
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.543626e+04
+   an_vp == 2.000788e+09 , an_vs == 1.554073e+09
+Np=2556 Lp=5 Ns=1439 Ls=7
+0.947907 0.622878
+vp_max = 4484.917969
+vs_max = 2588.203369
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 1.505417e+04
+   an_vp == 1.565987e+09 , an_vs == 8.750616e+08
+Np=2557 Lp=5 Ns=1438 Ls=7
+0.948087 0.622715
+vp_max = 4486.060059
+vs_max = 2587.427979
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 1.529864e+04
+   an_vp == 8.501662e+08 , an_vs == 6.441647e+08
+Np=2558 Lp=5 Ns=1436 Ls=7
+0.948132 0.622172
+vp_max = 4486.568359
+vs_max = 2584.976318
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 1.508452e+04
+   an_vp == 8.211583e+08 , an_vs == 6.378221e+08
+Np=2559 Lp=5 Ns=1433 Ls=7
+0.948404 0.621410
+vp_max = 4488.144043
+vs_max = 2581.519043
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 1.409353e+04
+   an_vp == 4.722588e+08 , an_vs == 6.024896e+08
+Np=2562 Lp=5 Ns=1428 Ls=7
+0.948861 0.620450
+vp_max = 4491.187500
+vs_max = 2577.046631
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 1.393929e+04
+   an_vp == 3.850276e+08 , an_vs == 3.580728e+08
+Np=2565 Lp=5 Ns=1424 Ls=7
+0.949359 0.619668
+vp_max = 4494.421387
+vs_max = 2573.412354
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 1.392656e+04
+   an_vp == 4.013561e+08 , an_vs == 3.395556e+08
+Np=2569 Lp=5 Ns=1421 Ls=7
+0.949856 0.618988
+vp_max = 4497.948730
+vs_max = 2570.298340
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 1.368903e+04
+   an_vp == 4.438646e+08 , an_vs == 4.353988e+08
+Np=2573 Lp=5 Ns=1418 Ls=7
+0.950444 0.618240
+vp_max = 4501.906738
+vs_max = 2566.902588
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 1.373039e+04
+   an_vp == 3.261349e+08 , an_vs == 2.646093e+08
+Np=2576 Lp=5 Ns=1414 Ls=7
+0.950980 0.617466
+vp_max = 4505.333984
+vs_max = 2563.305908
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 1.410580e+04
+   an_vp == 2.929700e+08 , an_vs == 2.507625e+08
+Np=2579 Lp=5 Ns=1411 Ls=7
+0.951443 0.616672
+vp_max = 4508.410645
+vs_max = 2559.720459
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 1.413365e+04
+   an_vp == 2.710060e+08 , an_vs == 2.442174e+08
+Np=2582 Lp=5 Ns=1407 Ls=7
+0.951862 0.615912
+vp_max = 4511.281250
+vs_max = 2556.186768
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 1.374720e+04
+   an_vp == 3.071653e+08 , an_vs == 2.705896e+08
+Np=2585 Lp=5 Ns=1404 Ls=7
+0.952270 0.615209
+vp_max = 4514.104004
+vs_max = 2552.984863
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 1.324647e+04
+   an_vp == 3.802015e+08 , an_vs == 1.997115e+08
+Np=2588 Lp=5 Ns=1402 Ls=7
+0.952748 0.614686
+vp_max = 4517.256348
+vs_max = 2550.620117
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 1.303889e+04
+   an_vp == 3.198647e+08 , an_vs == 1.523192e+08
+Np=2592 Lp=5 Ns=1400 Ls=7
+0.953263 0.614337
+vp_max = 4520.887207
+vs_max = 2548.983887
+rho_max = 2000.000000
+The cost of the run time is 32735.441062 seconds
+Number of MPI thread is 1
+Maximum velocity for stability is 3960.454363 m/s
+P-wave maximum velocity for stability is 4123 m/s
+S-wave maximum velocity for stability is 3960 m/s
+The available Device number is 1 on Computer
+The maximum trace number for source is 663
+Today's data and time: Fri Apr 12 10:33:32 2019
+Set the reference time window
+Ricker wave is done
+The true model is done
+Np=2764 Lp=5 Ns=1439 Ls=7
+	Stable P-max=4800.026367
+	Stable S-max=4156.888184
+0.979161 0.624992
+vp_max = 4700.000000
+vs_max = 2598.022705
+rho_max = 2000.000000
+ABC parameters are done
+Obtain the observed seismograms !
+Np=2334 Lp=5 Ns=1201 Ls=7
+0.916965 0.574371
+vp_max = 4283.447266
+vs_max = 2367.802734
+rho_max = 2000.000000
+====================
+   FREQUENCY == f[1]-->4.000000
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.811437e+04
+   an_vp == 5.907125e+10 , an_vs == 1.992967e+10
+Np=2340 Lp=5 Ns=1206 Ls=7
+0.916966 0.574391
+vp_max = 4283.579102
+vs_max = 2367.850830
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.433308e+04
+   an_vp == 3.322030e+10 , an_vs == 1.353192e+10
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.916955 0.574396
+vp_max = 4283.665039
+vs_max = 2367.882324
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 1.147356e+04
+   an_vp == 1.888254e+10 , an_vs == 7.707588e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.916973 0.574404
+vp_max = 4283.747559
+vs_max = 2367.913086
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 1.021622e+04
+   an_vp == 1.062442e+10 , an_vs == 4.417577e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.916992 0.574412
+vp_max = 4283.837402
+vs_max = 2367.949707
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 1.071952e+04
+   an_vp == 5.890648e+09 , an_vs == 2.564144e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917015 0.574423
+vp_max = 4283.943359
+vs_max = 2367.993652
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 1.152161e+04
+   an_vp == 4.010070e+09 , an_vs == 1.929303e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917038 0.574435
+vp_max = 4284.052734
+vs_max = 2368.042969
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 1.166732e+04
+   an_vp == 3.869882e+09 , an_vs == 1.852205e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917062 0.574447
+vp_max = 4284.163086
+vs_max = 2368.092773
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 1.130000e+04
+   an_vp == 4.070363e+09 , an_vs == 1.795829e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917087 0.574461
+vp_max = 4284.282227
+vs_max = 2368.147705
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 1.066762e+04
+   an_vp == 4.734400e+09 , an_vs == 1.755750e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917117 0.574476
+vp_max = 4284.420410
+vs_max = 2368.210205
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 9.982430e+03
+   an_vp == 6.945073e+09 , an_vs == 2.164279e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917095 0.574493
+vp_max = 4284.582031
+vs_max = 2368.280518
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 9.504479e+03
+   an_vp == 1.127590e+10 , an_vs == 2.888311e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917135 0.574511
+vp_max = 4284.770508
+vs_max = 2368.354736
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 9.438794e+03
+   an_vp == 1.074152e+10 , an_vs == 2.595038e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917175 0.574528
+vp_max = 4284.955566
+vs_max = 2368.424561
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 9.431930e+03
+   an_vp == 8.131701e+09 , an_vs == 2.066394e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917213 0.574545
+vp_max = 4285.133789
+vs_max = 2368.495117
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 9.119891e+03
+   an_vp == 9.880698e+09 , an_vs == 2.585886e+09
+Np=2356 Lp=5 Ns=1220 Ls=7
+0.917250 0.574543
+vp_max = 4285.304688
+vs_max = 2368.569824
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 8.542697e+03
+   an_vp == 9.718305e+09 , an_vs == 2.765382e+09
+Np=2356 Lp=5 Ns=1220 Ls=7
+0.917284 0.574563
+vp_max = 4285.466309
+vs_max = 2368.650391
+rho_max = 2000.000000
+====================
+   FREQUENCY == f[2]-->7.000000
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 1.292309e+04
+   an_vp == 8.604859e+09 , an_vs == 3.258098e+09
+Np=2356 Lp=5 Ns=1220 Ls=7
+0.917284 0.574557
+vp_max = 4285.463379
+vs_max = 2368.628174
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 1.056302e+04
+   an_vp == 1.154951e+10 , an_vs == 4.053522e+09
+Np=2356 Lp=5 Ns=1220 Ls=7
+0.917274 0.574543
+vp_max = 4285.416504
+vs_max = 2368.568115
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 1.025918e+04
+   an_vp == 5.826563e+09 , an_vs == 2.494564e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917256 0.574538
+vp_max = 4285.336914
+vs_max = 2368.468018
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 8.872779e+03
+   an_vp == 7.681048e+09 , an_vs == 1.978505e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917226 0.574513
+vp_max = 4285.193848
+vs_max = 2368.363770
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 8.865784e+03
+   an_vp == 3.911481e+09 , an_vs == 1.579978e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917192 0.574485
+vp_max = 4285.035645
+vs_max = 2368.250732
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 8.447340e+03
+   an_vp == 4.769400e+09 , an_vs == 1.856440e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917159 0.574459
+vp_max = 4284.881836
+vs_max = 2368.140381
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 8.519714e+03
+   an_vp == 2.852308e+09 , an_vs == 1.001293e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917127 0.574432
+vp_max = 4284.730957
+vs_max = 2368.029297
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 8.230096e+03
+   an_vp == 3.427530e+09 , an_vs == 1.237845e+09
+Np=2356 Lp=5 Ns=1219 Ls=7
+0.917098 0.574405
+vp_max = 4284.598145
+vs_max = 2367.920166
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 8.021711e+03
+   an_vp == 7.399078e+09 , an_vs == 3.073328e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917130 0.574382
+vp_max = 4284.480469
+vs_max = 2367.824219
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 7.435604e+03
+   an_vp == 5.908308e+09 , an_vs == 2.295539e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917108 0.574362
+vp_max = 4284.379883
+vs_max = 2367.742920
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 6.869090e+03
+   an_vp == 5.192277e+09 , an_vs == 1.806096e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917090 0.574345
+vp_max = 4284.294434
+vs_max = 2367.671631
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 6.162484e+03
+   an_vp == 8.266407e+09 , an_vs == 2.701332e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917073 0.574329
+vp_max = 4284.218750
+vs_max = 2367.604492
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 6.021555e+03
+   an_vp == 5.526705e+09 , an_vs == 2.385468e+09
+Np=2355 Lp=5 Ns=1219 Ls=7
+0.917057 0.574311
+vp_max = 4284.142090
+vs_max = 2367.531494
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 5.830746e+03
+   an_vp == 4.430024e+09 , an_vs == 1.377744e+09
+Np=2355 Lp=5 Ns=1218 Ls=7
+0.917040 0.574322
+vp_max = 4284.059570
+vs_max = 2367.493652
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 6.256243e+03
+   an_vp == 3.068897e+09 , an_vs == 1.058731e+09
+Np=2355 Lp=5 Ns=1235 Ls=7
+0.917022 0.577904
+vp_max = 4283.976074
+vs_max = 2383.658203
+rho_max = 2000.000000
+====================
+   FREQUENCY == f[3]-->10.000000
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 8.751436e+03
+   an_vp == 2.374402e+09 , an_vs == 1.425871e+09
+Np=2355 Lp=5 Ns=1237 Ls=7
+0.917016 0.578373
+vp_max = 4283.948242
+vs_max = 2385.758057
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 7.778766e+03
+   an_vp == 7.146078e+08 , an_vs == 5.973687e+08
+Np=2355 Lp=5 Ns=1240 Ls=7
+0.917008 0.579003
+vp_max = 4283.913086
+vs_max = 2388.603027
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 7.066243e+03
+   an_vp == 1.171907e+09 , an_vs == 6.962220e+08
+Np=2355 Lp=5 Ns=1242 Ls=7
+0.916999 0.579550
+vp_max = 4283.869629
+vs_max = 2391.025879
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 6.726196e+03
+   an_vp == 1.030300e+09 , an_vs == 6.211714e+08
+Np=2356 Lp=5 Ns=1245 Ls=7
+0.917189 0.580229
+vp_max = 4285.020020
+vs_max = 2394.078369
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 6.450898e+03
+   an_vp == 1.303987e+09 , an_vs == 7.954732e+08
+Np=2359 Lp=5 Ns=1250 Ls=7
+0.917576 0.581307
+vp_max = 4287.621582
+vs_max = 2398.945068
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 6.866152e+03
+   an_vp == 1.193606e+09 , an_vs == 4.415615e+08
+Np=2363 Lp=5 Ns=1256 Ls=7
+0.918375 0.582597
+vp_max = 4292.411621
+vs_max = 2404.769531
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 7.054868e+03
+   an_vp == 9.643963e+08 , an_vs == 3.780472e+08
+Np=2371 Lp=5 Ns=1262 Ls=7
+0.919609 0.584077
+vp_max = 4300.299316
+vs_max = 2411.385498
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 6.975374e+03
+   an_vp == 1.310575e+09 , an_vs == 5.254350e+08
+Np=2381 Lp=5 Ns=1269 Ls=7
+0.921057 0.585553
+vp_max = 4309.737305
+vs_max = 2418.072754
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 6.637591e+03
+   an_vp == 8.413647e+08 , an_vs == 3.634691e+08
+Np=2390 Lp=5 Ns=1275 Ls=7
+0.922431 0.586794
+vp_max = 4318.574219
+vs_max = 2423.711914
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 6.527407e+03
+   an_vp == 5.900853e+08 , an_vs == 2.260395e+08
+Np=2398 Lp=5 Ns=1280 Ls=7
+0.923690 0.587884
+vp_max = 4326.618652
+vs_max = 2428.639160
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 6.264154e+03
+   an_vp == 7.670027e+08 , an_vs == 2.803171e+08
+Np=2405 Lp=5 Ns=1285 Ls=7
+0.924916 0.589118
+vp_max = 4334.250000
+vs_max = 2434.168945
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 5.989727e+03
+   an_vp == 1.864158e+09 , an_vs == 6.256033e+08
+Np=2415 Lp=5 Ns=1291 Ls=7
+0.926409 0.590311
+vp_max = 4343.960449
+vs_max = 2439.617920
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 5.608233e+03
+   an_vp == 1.432851e+09 , an_vs == 3.768612e+08
+Np=2426 Lp=5 Ns=1297 Ls=7
+0.928120 0.591620
+vp_max = 4354.982910
+vs_max = 2445.546875
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 5.518784e+03
+   an_vp == 1.317070e+09 , an_vs == 4.444727e+08
+Np=2438 Lp=5 Ns=1303 Ls=7
+0.930027 0.593001
+vp_max = 4367.221680
+vs_max = 2451.780762
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 5.283676e+03
+   an_vp == 1.281721e+09 , an_vs == 5.455059e+08
+Np=2451 Lp=5 Ns=1309 Ls=7
+0.932009 0.594403
+vp_max = 4380.118164
+vs_max = 2458.103516
+rho_max = 2000.000000
+====================
+   FREQUENCY == f[4]-->14.000000
+====================
+Ricker wave is done again
+====================
+ITERATION == 1
+== ** Misfit_old ** == 6.853536e+03
+   an_vp == 1.429476e+09 , an_vs == 8.779970e+08
+Np=2454 Lp=5 Ns=1307 Ls=7
+0.932504 0.593868
+vp_max = 4383.276855
+vs_max = 2455.715088
+rho_max = 2000.000000
+====================
+ITERATION == 2
+== ** Misfit_old ** == 8.237609e+03
+   an_vp == 9.657756e+08 , an_vs == 7.311073e+08
+Np=2459 Lp=5 Ns=1305 Ls=7
+0.933117 0.593577
+vp_max = 4387.544922
+vs_max = 2454.337646
+rho_max = 2000.000000
+====================
+ITERATION == 3
+== ** Misfit_old ** == 8.080491e+03
+   an_vp == 5.508600e+08 , an_vs == 4.249993e+08
+Np=2465 Lp=5 Ns=1305 Ls=7
+0.934036 0.593534
+vp_max = 4393.534180
+vs_max = 2454.157471
+rho_max = 2000.000000
+====================
+ITERATION == 4
+== ** Misfit_old ** == 7.369868e+03
+   an_vp == 1.205548e+09 , an_vs == 6.846586e+08
+Np=2474 Lp=5 Ns=1307 Ls=7
+0.935477 0.593882
+vp_max = 4402.827637
+vs_max = 2455.773926
+rho_max = 2000.000000
+====================
+ITERATION == 5
+== ** Misfit_old ** == 1.161051e+04
+   an_vp == 6.083468e+08 , an_vs == 4.953743e+08
+Np=2484 Lp=5 Ns=1309 Ls=7
+0.937077 0.594396
+vp_max = 4413.166992
+vs_max = 2458.075439
+rho_max = 2000.000000
+====================
+ITERATION == 6
+== ** Misfit_old ** == 1.303854e+04
+   an_vp == 7.087144e+08 , an_vs == 5.159530e+08
+Np=2495 Lp=5 Ns=1313 Ls=7
+0.938772 0.595335
+vp_max = 4424.258301
+vs_max = 2462.310303
+rho_max = 2000.000000
+====================
+ITERATION == 7
+== ** Misfit_old ** == 9.827107e+03
+   an_vp == 1.438911e+09 , an_vs == 4.837201e+08
+Np=2509 Lp=5 Ns=1317 Ls=7
+0.940901 0.596149
+vp_max = 4438.270020
+vs_max = 2466.031250
+rho_max = 2000.000000
+====================
+ITERATION == 8
+== ** Misfit_old ** == 1.479043e+04
+   an_vp == 1.990160e+09 , an_vs == 6.613078e+08
+Np=2520 Lp=5 Ns=1319 Ls=7
+0.942603 0.596637
+vp_max = 4449.444824
+vs_max = 2468.225830
+rho_max = 2000.000000
+====================
+ITERATION == 9
+== ** Misfit_old ** == 1.060721e+04
+   an_vp == 1.095351e+09 , an_vs == 3.187764e+08
+Np=2534 Lp=5 Ns=1323 Ls=7
+0.944690 0.597351
+vp_max = 4463.324219
+vs_max = 2471.536621
+rho_max = 2000.000000
+====================
+ITERATION == 10
+== ** Misfit_old ** == 1.190612e+04
+   an_vp == 1.135724e+09 , an_vs == 6.154648e+08
+Np=2547 Lp=5 Ns=1328 Ls=7
+0.946504 0.598640
+vp_max = 4475.661621
+vs_max = 2477.314697
+rho_max = 2000.000000
+====================
+ITERATION == 11
+== ** Misfit_old ** == 1.089485e+04
+   an_vp == 8.982598e+08 , an_vs == 5.234757e+08
+Np=2561 Lp=5 Ns=1335 Ls=7
+0.948602 0.600074
+vp_max = 4489.665527
+vs_max = 2483.875488
+rho_max = 2000.000000
+====================
+ITERATION == 12
+== ** Misfit_old ** == 9.702864e+03
+   an_vp == 9.116340e+08 , an_vs == 4.500803e+08
+Np=2572 Lp=5 Ns=1342 Ls=7
+0.950348 0.601537
+vp_max = 4501.160156
+vs_max = 2490.565186
+rho_max = 2000.000000
+====================
+ITERATION == 13
+== ** Misfit_old ** == 1.125233e+04
+   an_vp == 1.491371e+09 , an_vs == 4.710124e+08
+Np=2585 Lp=5 Ns=1346 Ls=7
+0.952228 0.602533
+vp_max = 4513.903809
+vs_max = 2495.050781
+rho_max = 2000.000000
+====================
+ITERATION == 14
+== ** Misfit_old ** == 9.162800e+03
+   an_vp == 4.785271e+08 , an_vs == 1.466818e+08
+Np=2596 Lp=5 Ns=1349 Ls=7
+0.953966 0.603296
+vp_max = 4525.409668
+vs_max = 2498.482178
+rho_max = 2000.000000
+====================
+ITERATION == 15
+== ** Misfit_old ** == 9.615848e+03
+   an_vp == 5.714000e+08 , an_vs == 2.764531e+08
+Np=2610 Lp=5 Ns=1353 Ls=7
+0.955886 0.604043
+vp_max = 4538.701172
+vs_max = 2501.940186
+rho_max = 2000.000000
+The cost of the run time is 65400.643329 seconds
