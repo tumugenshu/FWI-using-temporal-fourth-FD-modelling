@@ -1,0 +1,73 @@
+	int nz=400;//234;//126;//281;//2801;
+	int nx=800;//663;//1134;//1361;//13601;
+
+   	int Lp=Lpo+1;	//P_LC_Space_time
+    	int Ls=Lso+1;	//S_LC_space_time
+
+	int Lc=Lcc;//5;
+
+	int pml=18;
+    	int pmlc=pml+(Lpo>Lso?Lpo:Lso);	
+
+	int ntz=nz+2*pmlc;
+	int ntx=nx+2*pmlc;
+	int ntp=ntz*ntx;
+
+	int np=nx*nz;
+	int ip,iz,ix,it,ipp;
+
+	float dz=10.0;
+	float dx=dz;
+
+	/*=========================================================
+	  Parameters of ricker wave...
+	  ========================================================*/
+
+	int   itmax=4000;
+	float *rick;
+	float f0=25.0,f1=25.0;
+	float t0=1/f0;//0.2;//0.08;//
+	float dt=1.6e-3;
+
+	{
+			ip=iz*ntx+ix;
+			fread(&vp[ip],sizeof(float),1,fp);
+			if(iz<pml+200)	vp[ip]=3000.0;
+			else 		vp[ip]=4000.0;           
+		}
+
+			fread(&vs[ip],sizeof(float),1,fp);
+			if(iz<pml+200) vs[ip]=1800.0;
+			else           vs[ip]=2400.0; 
+
+	for(ip=0;ip<ntp;ip++)
+	{
+		rho[ip]=2000.0;    
+	}
+
+
+	int ns=1;;//30;//30;//24;//6;//334;//88;//94;////126;//6;//124;//
+
+	struct Source ss[ns];
+
+	for(is=0;is<ns;is++)
+	{
+		ss[is].s_ix=pmlc+330;//+is*26;//30+is*20;//18+is*28;//
+
+		ss[is].s_iz=pmlc+1;
+		//ss[is].r_iz=pmlc+1;
+
+		ss[is].r_n=nx;
+	}
+	
+	
+	
+	if(iz==s_iz&&ix==s_ix)
+	{
+		sigmaxx[ip]=sigmaxx[ip]+rick[it];
+		sigmaxxs[ip]=sigmaxxs[ip]+rick[it];
+		sigmazz[ip]=sigmazz[ip]+rick[it];
+		//vz[ip]=vz[ip]+rick[it];
+	}
+	
+	ricker_wave(rick,itmax,f[ifreq],t0,dt,1);
